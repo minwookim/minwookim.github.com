@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Minwoo Kim's Blog]]></title><description><![CDATA[My story]]></description><link>http://minwookim.github.io/</link><image><url>http://minwookim.github.io//public/img/favorite.png</url><title>Minwoo Kim&apos;s Blog</title><link>http://minwookim.github.io/</link></image><generator>NodeJS RSS Module</generator><lastBuildDate>Wed, 06 Nov 2013 11:25:19 GMT</lastBuildDate><atom:link href="http://minwookim.github.io//rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Welcome to haroopress]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a8618a255192bd842fdd62d099776735?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_7">환영합니다.</h3>
+
+<ul>
+<li>Welcome</li>
+<li>歡迎</li>
+<li>bienvenida</li>
+<li>accueil</li>
+<li>willkommen</li>
+<li>ようこそ</li>
+<li>välkommet</li>
+<li>grata</li>
+<li>добро пожаловать</li>
+</ul>
+
+<h3 id="toc_8">Intro</h3>
+<p>하루프레스는 하루의 이야기를 블로깅하기 위한 정적 페이지 블로그 엔진입니다.</p>
+<h3 id="toc_9">Haroopress?</h3>
+
+<ul>
+<li><a href="http://haroopress.com/about/">하루프레스?</a></li>
+<li><a href="http://haroopress.com/slides/">하루프레스 웹 프리젠테이션</a></li>
+<li><a href="http://haroopress.com/book/">하루프레스 eBook</a></li>
+<li><a href="http://haroopress.com/diary">하루프레스 개발 다이어리</a></li>
+</ul>
+
+<h3 id="toc_10">Usage</h3>
+
+<ul>
+<li><a href="http://haroopress.com/post/haroopress-install-guide-movie/">5분만에 설치하는 하루프레스 동영상</a></li>
+<li><a href="http://haroopress.com/post/haroopress-quick-guide/">하루프레스 퀵 가이드</a></li>
+<li><a href="http://haroopress.com/post/haroopress-posting-guide/">하루프레스 포스팅 가이드</a></li>
+<li><a href="http://haroopress.com/post/haroopress-default-data-format/">하루프레스 기본 데이터 규약</a></li>
+<li><a href="http://haroopress.com/post/haroopress-update-my-profile/">하루프레스 저작자 프로파일 수정하기</a></li>
+<li><a href="http://haroopress.com/post/harupeureseu-hwangyeongseoljeong-hagi/">하루프레스 환경설정 하기</a></li>
+</ul>
+
+<h3 id="toc_11">History</h3>
+
+<ul>
+<li><a href="https://github.com/rhiokim/haroopress/wiki/Change-History">변경 이력</a></li>
+</ul>
+]]></description><link>http://minwookim.github.io//post/welcome-to-haroopress</link><guid isPermaLink="false">welcome-to-haroopress</guid><dc:creator><![CDATA[<a href="haroopress" target="_blank">haroopress</a>]]></dc:creator><pubDate>Tue, 21 Feb 2012 00:00:00 GMT</pubDate></item></channel></rss>
